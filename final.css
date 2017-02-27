@@ -1,0 +1,94 @@
+body{
+background-color: #9fc5e8;
+}
+header{
+background-color: #a64d79;
+height: 70px;	
+border-radius: 5px;
+margin: 20px;
+padding:0px 5px 5px 10px;
+}
+nav{
+background-color: #c27ba0;
+height: 46px;
+font-size:40px;
+margin: 25px;
+}
+main, section{
+background-color: #0b5394;
+border-radius: 20px;
+padding: 15px;
+}
+h1{
+font-family:New Time Roman;
+font-size:65px;
+}
+h3, h2{
+font-family:Georgia;
+font-style: italic;
+color:#8e7cc3;
+}
+h2{
+font-size:28px;	
+}
+h3{
+font-size:25px;	
+}
+p{
+font-size:20px;
+color:#999999;
+font-family: Helvetica;
+}
+a li{
+display: inline;
+border-right: 2px solid black;
+padding-right: 5px;
+list-style: none;
+}
+.nmargin{
+margin: 25px;
+}
+.apicture1, .apicture2, .ppicture1, .ppicture2{
+border-radius: 5px;
+}
+.ppicture1, .apicture1{
+float: right;
+clear: right;
+margin-right: 25px;	
+}
+.ppicture2, .apicture2{
+float: left;
+clear: left;
+margin-left: 25px;
+}
+.apicture1{
+width:130px;
+}
+.apicture2{
+width: 140px;
+}
+.ppicture1{
+width: 165px;
+}
+.ppicture2{
+width: 310px;
+}
+#apmargin1 {
+margin:25px 170px 25px 25px;	
+}
+#apmargin2{
+margin:25px 25px 25px 180px;
+}
+#ppmargin1{
+margin:25px 200px 25px 25px;	
+}
+#ppmargin2{
+margin:25px 25px 25px 345px;	
+}
+
+
+
+
+
+
+
